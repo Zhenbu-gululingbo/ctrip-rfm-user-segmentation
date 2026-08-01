@@ -31,6 +31,6 @@ Python｜Pandas｜NumPy｜Scikit-learn(K-Means)｜Matplotlib
 ![用户分布统计](output/user_distribute.png)
 
 ## 运行方式
-1. 安装依赖
+安装依赖
 ```bash
 pip install -r requirements.txt
